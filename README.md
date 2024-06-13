@@ -40,6 +40,9 @@ To view and interact with the Power BI dashboard, you'll need:
 ## Author
 -  Soumyajit Jalua
 
+## Contact
+- For any questions or feedback, please contact Soumyajit Jalua at Soumyajitjalua@gmail.com.
+
 ### Installation
 
 1. **Clone the repository**:
