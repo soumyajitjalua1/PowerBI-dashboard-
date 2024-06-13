@@ -2,7 +2,7 @@
 
 Welcome to the Madhav Ecommerce Sales Dashboard repository. This project contains a Power BI dashboard that visualizes the sales data of Madhav Ecommerce, providing insights into various sales metrics and performance indicators.
 
-![Dashboard Screenshot](./images/Screenshot%202024-06-13%20132325.png)
+![Dashboard Screenshot](Screenshot%202024-06-13%20132325.png)
 
 ## Overview
 
