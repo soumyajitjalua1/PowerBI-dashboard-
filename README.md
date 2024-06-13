@@ -35,7 +35,9 @@ To view and interact with the Power BI dashboard, you'll need:
 
 - **Power BI Desktop**: Download and install Power BI Desktop from [Microsoft's official website](https://powerbi.microsoft.com/desktop/).
 
-- ##Author
+
+
+##Author
 -  Soumyajit Jalua
 
 ### Installation
